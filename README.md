@@ -2,7 +2,7 @@
 
 I am a results-oriented professional based in **Ho Chi Minh City, Vietnam**. I recently graduated with **Excellence** from the **Ho Chi Minh City University of Technology (HCMUT)** with a degree in **Industrial Management**.
 
-My passion lies at the intersection of data analytics and business operations. I specialize in leveraging data to solve complex challenges, with advanced professional expertise in **Supply Chain Management** and **Logistics**.
+My passion lies at the intersection of data analytics and business operations. I specialize in leveraging data to solve complex challenges, with advanced professional expertise in **Supply Chain Management** and **Operations**.
 
 * 🎓 **Education:** B.S. in Industrial Management (Graduated with Excellence) - *Ho Chi Minh City University of Technology (HCMUT)*
 * 📍 **Location:** Ho Chi Minh City, Vietnam
